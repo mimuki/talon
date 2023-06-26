@@ -3,9 +3,9 @@ os: linux
 # Window and tag navigation
 (focus|win) left:
   key(super-left)
-(focus|win|tag) down:
+(focus|win) down:
   key(super-down)
-(focus|win|tag) up:
+(focus|win) up:
   key(super-up)
 (focus|win) right:
   key(super-right)
@@ -24,15 +24,15 @@ win (close|kill|die):
 win bar:
   key(super-b)
 
-tag (one|air):
+win (one|air):
   key(super-a)
-tag (two|red):
+win (two|red):
   key(super-r)
-tag (three|sun):
+win (three|sun):
   key(super-s)
-tag (four|trap):
+win (four|trap):
   key(super-t)
-tag (five|gust):
+win (five|gust):
   key(super-g)
 
 (run|show|open) program[s]:
