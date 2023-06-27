@@ -1,26 +1,26 @@
 app: qutebrowser
 -
-tab down:
+cute tab down:
   key(shift-escape escape)
   key(shift-e)
 
-tab up:
+cute tab up:
   key(shift-escape escape)
   key(shift-i)
 
-tab (close|kill|die):
+cute tab (close|kill|die):
   key(shift-escape escape)
   key(d d)
 
-tab new:
+cute tab new:
   key(shift-escape escape)
   key(shift-t)
 
-tab new open:
+cute tab new open:
   key(shift-escape escape)
   key(shift-t enter)
 
-tab (undo|reopen):
+cute tab (undo|reopen):
   key(shift-escape escape)
   key(u)
 

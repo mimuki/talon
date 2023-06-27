@@ -18,6 +18,13 @@ win move up:
 win move right:
   key(super-shift-right)
 
+win move up follow:
+  key(super-shift-up)
+  key(super-up)
+win move down follow:
+  key(super-shift-down)
+  key(super-down)
+
 win (close|kill|die):
   key(super-d)
 
@@ -35,7 +42,7 @@ win (four|trap):
 win (five|gust):
   key(super-g)
 
-(run|show|open) program[s]:
+(run|show|open) program:
   key(super-p)
 # todo: pick a better phrase, it seems to struggle here
 (awesome restart|restart awesome):
@@ -43,3 +50,6 @@ win (five|gust):
 
 (mouse nav|key nav):
   key(ctrl-t)
+
+open phone:
+  user.system_command_nb('scrcpy --shortcut-mod=ralt,lalt --hid-keyboard --power-off-on-close --turn-screen-off')
