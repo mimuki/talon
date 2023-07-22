@@ -30,3 +30,5 @@ quick switcher: key(ctrl-k)
 ((show|hide|toggle) inbox|inbox (show|hide|toggle)): key(ctrl-i)
 
 inbox read: key(ctrl-shift-e)
+
+jump [to] unread: key(shift-pageup)

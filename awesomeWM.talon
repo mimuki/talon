@@ -42,7 +42,7 @@ win (four|trap):
 win (five|gust):
   key(super-g)
 
-(run|show|open) program:
+program (run|show|open):
   key(super-p)
 # todo: pick a better phrase, it seems to struggle here
 (awesome restart|restart awesome):
