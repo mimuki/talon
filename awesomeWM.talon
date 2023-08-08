@@ -53,3 +53,5 @@ program (run|show|open):
 
 open phone:
   user.system_command_nb('scrcpy --shortcut-mod=ralt,lalt --hid-keyboard --power-off-on-close --turn-screen-off')
+open firefox:
+  user.system_command_nb('firefox')
