@@ -48,9 +48,32 @@ program (run|show|open):
 (awesome restart|restart awesome):
   key(ctrl-super-r)
 
-(mouse nav|key nav):
+keynav:
   key(ctrl-t)
+  key(u)
+  
+keynav hide:
+  key(escape)
+  key(escape)
 
+keynav touch:
+  key(space)
+
+keynav (right|righty):
+  key(h)
+
+keynav middle:
+  key(ctrl-h)
+
+keynav telly:
+  key(q)
+
+keynav less:
+  key(w)
+
+keynav (update|restart):
+  key(ctrl-alt-r)
+  
 open phone:
   user.system_command_nb('scrcpy --shortcut-mod=ralt,lalt --hid-keyboard --power-off-on-close --turn-screen-off')
 open firefox:
