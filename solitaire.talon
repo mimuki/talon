@@ -64,7 +64,18 @@ stack (nine|ninth):
     key(right)
     key(right)
     key(right)
-    
-    
+
+stack (ten|tenth):
+    key(shift-left)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+    key(right)
+
 stack top: key(shift-k)
 stack end: key(shift-j)
