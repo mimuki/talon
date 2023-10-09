@@ -1,23 +1,18 @@
 os: linux
 -
 # Window and tag navigation
-(focus|win) left:
-  key(super-left)
-(focus|win) down:
-  key(super-down)
-(focus|win) up:
-  key(super-up)
-(focus|win) right:
-  key(super-right)
-win move left:
-  key(super-shift-left)
-win move down:
-  key(super-shift-down)
-win move up:
-  key(super-shift-up)
-win move right:
-  key(super-shift-right)
+# tags (what other WMs call workspaces) are conceptualized as above and below each other
+win up:    key(super-up)
+win down:  key(super-down)
+win left:  key(super-left)
+win right: key(super-right)
 
+win move up:    key(super-shift-up)
+win move down:  key(super-shift-down)
+win move left:  key(super-shift-left)
+win move right: key(super-shift-right)
+
+# move a window to a different tag, and then go to that tag
 win move up follow:
   key(super-shift-up)
   key(super-up)
@@ -25,12 +20,14 @@ win move down follow:
   key(super-shift-down)
   key(super-down)
 
-win (close|kill|die):
+win (close|kill):
   key(super-d)
 
+# toggle titlebars
 win bar:
   key(super-b)
 
+# switch to a specific tag, instead of just "next" or "previous"
 win (one|air):
   key(super-a)
 win (two|red):
@@ -51,7 +48,8 @@ program (run|show|open):
 keynav:
   key(ctrl-t)
   key(u)
-  
+
+# if mouse grid is open, we need to exit that as well  
 keynav hide:
   key(escape)
   key(escape)
@@ -65,7 +63,7 @@ keynav (right|righty):
 keynav middle:
   key(ctrl-h)
 
-keynav telly:
+keynav (telly|teleport):
   key(q)
 
 keynav less:
