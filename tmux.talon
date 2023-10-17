@@ -1,4 +1,4 @@
-app: /XTerm/
+app.name: XTerm
 -
 mux: "tmux "
 
