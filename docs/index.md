@@ -3,7 +3,8 @@
 This page is eventually designed to help you play your favorite games hands free, using [Talon Voice, a powerful (if complicated) tool](https://talonvoice.com).
 
 ## Games With Tutorials
-There's nothing here... yet
+
+- [Caves of Qud](/Caves of Qud) (WIP)
 
 ## Games Without Tutorials
 These are games that others in the community have played, but setup guides haven't been written for them yet. Feel free to contribute your own guides, or just mention games that you've had success playing.
