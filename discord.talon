@@ -23,6 +23,7 @@ toggle DMs: key(ctrl-alt-right)
 
 quick switcher: key(ctrl-k)
 
+# TODO: sometimes this gets mixed up with rango's "hints toggle", so maybe change this
 ((show|hide|toggle) pins|pins (show|hide|toggle)): key(ctrl-p)
 
 ((show|hide|toggle) emoji|emoji (show|hide|toggle)): key(ctrl-e)
