@@ -10,6 +10,8 @@ cancel:
 (move here|bring that): key(m)
 bring waste: key(w)
 
+# todo: there's a way of doing this that doesn't suck, 
+# but I haven't learned it yet. I should do that
 stack (one|first):
     key(shift-left)
 stack (two|second):
