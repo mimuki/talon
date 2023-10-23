@@ -2,6 +2,6 @@ app.name: Firefox-esr
 -
 # solves occasionally jumbled keystrokes
 settings():
-    insert_wait = 1
+    insert_wait = 5
 
 tag(): browser
