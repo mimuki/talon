@@ -1,4 +1,4 @@
-app: /URxvt/
+app.name: XTerm
 -
 found: key(a)
 (stock|deal): key(s)
