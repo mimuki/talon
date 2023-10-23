@@ -1,5 +1,24 @@
-# Test!
+# Gaming With Talon
 
-Testy test
+This page is eventually designed to help you play your favorite games hands free, using [Talon Voice, a powerful (if complicated) tool](https://talonvoice.com).
 
-do you expect me to do proper html or are we good
+## Games With Tutorials
+There's nothing here... yet
+
+## Games Without Tutorials
+These are games that others in the community have played, but setup guides haven't been written for them yet. Feel free to contribute your own guides, or just mention games that you've had success playing.
+
+### No Extra Hardware Required
+100% voice only! Hooray!
+- (probably a lot of retro console games in an emulator)
+
+### Eye Tracking Only
+These games are only going to be fun if you have an eye tracker- they are extremely mouse dependent, and might be too fast paced for other mouse alternatives. Otherwise, try them at your own peril.
+
+- Diablo 3/4
+- Magic the Gathering Arena
+- Heros of Might and Magic 3
+- Crumbled World
+- The Longest Journey
+- Slay the Spire
+- Chants of Sennaar
