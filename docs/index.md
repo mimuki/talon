@@ -11,6 +11,7 @@ These are games that others in the community have played, but setup guides haven
 
 ### No Extra Hardware Required
 100% voice only! Hooray!
+- Sudden Strike 4 (Only played with Dragon Professional so far) See video https://youtu.be/5DBnzvKbQi4
 - (probably a lot of retro console games in an emulator)
 
 ### Eye Tracking Only
