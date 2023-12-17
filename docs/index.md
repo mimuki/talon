@@ -11,7 +11,7 @@ These are games that others in the community have played, but setup guides haven
 
 ### No Extra Hardware Required
 100% voice only! Hooray!
-- Sudden Strike 4 See video https://youtu.be/5DBnzvKbQi4 [Talon commands:](https://github.com/Mark-Phillipson/talon_my_stuff/blob/main/sudden_strike_4.talon) 
+- Sudden Strike 4 [See video](https://youtu.be/5DBnzvKbQi4)  [Talon commands:](https://github.com/Mark-Phillipson/talon_my_stuff/blob/main/apps/sudden_strike_4.talon) Note the video shows me using a head mouse that I no longer use, but I still manage to play the game okay with just voice commands and labels stuck to the edge of my monitors in place of a mouse grid. 
 - (probably a lot of retro console games in an emulator)
 
 ### Eye Tracking Only
